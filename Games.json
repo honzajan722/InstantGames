@@ -77,6 +77,19 @@
   "new" : "Yes",
   "all_dlc": "Yes"
  },
+ "Schedule I":{
+  "steam": "https://store.steampowered.com/app/3164500/Schedule_I/",
+  "steamdb": "https://steamdb.info/app/3164500/",
+  "version": {"22829923": "latest"},
+  "version_downloader": "",
+  "size on disk" : "7.34GB",
+  "denuvo" : "No",
+  "launcher" : "No",
+  "online": "No",
+  "cracked": "No",
+  "new" : "No",
+  "all_dlc": "Yes"
+ },
  "LEGO® Batman™: The Videogame": {
   "steam": "https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/",
   "steamdb": "https://steamdb.info/app/21000/",
