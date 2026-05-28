@@ -1,7 +1,7 @@
 {
  "game":
- {"steam":"",
-  "steamdb":"",
+ {"steam":"https://store.steampowered.com/app/appid/",
+  "steamdb":"https://steamdb.info/app/appid/",
   "size":"GB",
   "versions":{
    "latest:x":""
@@ -9,10 +9,10 @@
   "versions download":{
    "latest:x":""
   },
-  "cracked":"",
-  "launcher":"",
-  "denuvo":"",
-  "online":"",
-  "all dlc":"",
+  "cracked":"no",
+  "launcher":"no",
+  "denuvo":"no",
+  "online":"no",
+  "all dlc":"yes",
  }
 }
