@@ -1,18 +1,34 @@
 {
- "game":
- {"steam":"https://store.steampowered.com/app/appid/",
-  "steamdb":"https://steamdb.info/app/appid/",
+ "Schedule I":
+ {"steam":"https://store.steampowered.com/app/3164500/",
+  "steamdb":"https://steamdb.info/app/3164500/",
   "size":"GB",
   "versions":{
-   "latest:x":""
+  "latest":"0.4.5f2"
   },
   "versions download":{
-   "latest:x":""
+  "0.4.5f2":""
   },
   "cracked":"no",
   "launcher":"no",
   "denuvo":"no",
   "online":"no",
   "all dlc":"yes",
- }
+ },
+  "game":
+ {"steam":"https://store.steampowered.com/app/appid/",
+  "steamdb":"https://steamdb.info/app/appid/",
+  "size":"GB",
+  "versions":{
+  "latest":""
+  },
+  "versions download":{
+  "latest":""
+  },
+  "cracked":"no",
+  "launcher":"no",
+  "denuvo":"no",
+  "online":"no",
+  "all dlc":"yes",
+ },
 }
