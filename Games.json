@@ -9,11 +9,11 @@
   "versions download":{
   "0.4.5f2":""
   },
-  "cracked":"no",
-  "launcher":"no",
-  "denuvo":"no",
-  "online":"no",
+  "cracked":"yes",
+  "launcher":"yes",
+  "denuvo":"yes",
+  "online":"yes",
   "all dlc":"yes",
-  "new":"no"
+  "new":"yes"
  },
 }
